@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/m5Fpndg/los-7-tipos-de-programador-explicados-header.jpg" align="center" style="width: 100%" />
+<img src="https://i.ibb.co/R4Tw5jY/PROGRAMADOR-WEB.png" align="center" style="width: 100%" />
 </div>  
   
 
@@ -101,6 +101,10 @@
 <br/>  
 
 
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 <br />
 
 ----
