@@ -12,7 +12,7 @@
 - 🌱 Aprendiendo y practicando Angular 18  
   
 
-- 🤺 Improving my English level  
+- 🤺 Improving my english level  
   
 
 <br/>  
