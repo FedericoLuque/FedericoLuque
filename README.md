@@ -6,6 +6,7 @@
 ### <div align="center">Hi 👋, I'm Federico 👨‍💻 Full Stack Web Developer 🚀</div>  
   
 
+
 -  Técnico Superior en Desarrollo de Aplicaciones Web  
   
 -  Master en Inteligencia Artificial y Big Data 
