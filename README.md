@@ -6,13 +6,11 @@
 ### <div align="center">Hi 👋, I'm Federico 👨‍💻 Full Stack Web Developer 🚀</div>  
   
 
-- 🔭 Técnico Superior en Desarrollo de Aplicaciones Web  
+-  Técnico Superior en Desarrollo de Aplicaciones Web  
   
+-  Master en Inteligencia Artificial y Big Data 
 
-- 🌱 Aprendiendo y practicando Angular 18  
-  
-
-- 🤺 Improving my english level  
+-  Aprendiendo y practicando Angular 18  
   
 
 <br/>  
