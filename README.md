@@ -10,8 +10,6 @@
 -  Técnico Superior en Desarrollo de Aplicaciones Web  
   
 -  Master en Inteligencia Artificial y Big Data 
-
--  Aprendiendo y practicando Angular 18  
   
 
 <br/>  
