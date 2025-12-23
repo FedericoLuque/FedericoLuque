@@ -71,5 +71,3 @@ LinkedIn: [https://www.linkedin.com/in/federico-luque-santos](https://www.linked
 ---
 
 > “I don’t wait for opportunities — I build them.”
-
-```
