@@ -1,97 +1,75 @@
-<div align="center">
-<img src="https://i.ibb.co/R4Tw5jY/PROGRAMADOR-WEB.png" align="center" style="width: 100%" />
-</div>  
-  
+# Hi, I'm Federico 👋
 
-### <div align="center">Hi 👋, I'm Federico 👨‍💻 Full Stack Web Developer 🚀</div>  
-  
+**Junior Software Developer | Open Source Contributor | Web & Backend**
 
+Welcome to my GitHub profile!
 
--  Técnico Superior en Desarrollo de Aplicaciones Web  
-  
--  Master en Inteligencia Artificial y Big Data 
-  
+I’m a software developer with a strong foundation in **web development** and real-world coding experience through **active open source contributions**. I transitioned into tech with a focus on continuously building, learning, and collaborating — not just completing tutorials.
 
-<br/>  
+---
 
+## About Me
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+I build things that matter.  
+I contribute code that gets **reviewed, approved, and merged** by real projects.  
+I write software that **solves problems** — not just passes exercises.
 
+My journey involves:
+- **Frontend & backend development**
+- Web applications built with TypeScript, Angular, Python, Java
+- Real open source contributions with pull requests accepted
 
+I’m passionate about continuous learning, real-world collaboration, and building a career in software engineering.
 
-### Frontend  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
-</div>
+---
 
-</td><td valign="top" width="33%">
+## 🛠 Tech Stack
 
+### Languages
+```md
+Python · JavaScript · TypeScript · Java · PHP
+````
 
+### Frontend
 
-### Backend  
-<div align="center">  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-</div>
+```md
+HTML · CSS · Angular · Bootstrap
+```
 
-</td><td valign="top" width="33%">
+### Backend & Tools
 
+```md
+Node.js · Express · Flask · MySQL · Redis · Git · Linux · Docker
+```
 
+> This stack is what I use to build and contribute to working software.
 
-### DevOps  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-</div>
+---
 
-</td></tr></table>  
+## 📌 Open Source Highlights
 
-<br/>  
+Here are examples of contributions where my work was:
+
+* Reviewed by others
+* Merged into the codebase
+* Used by the project team
 
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/FedericoLuque" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/federico-luque-santos" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
+---
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoLuque&hide_border=true&layout=compact" align="center" /></div>  
+## 📫 Let’s Connect
 
+I’m actively open to:
 
+* Collaborations
+* Mentorship opportunities
+* Junior developer roles
 
-<br/>  
+LinkedIn: [https://www.linkedin.com/in/federico-luque-santos](https://www.linkedin.com/in/federico-luque-santos)
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=FedericoLuque&&style=flat-square" align="center" />
-</div>  
-  
+---
 
-<br/>  
+> “I don’t wait for opportunities — I build them.”
 
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-<br />
-
+```
